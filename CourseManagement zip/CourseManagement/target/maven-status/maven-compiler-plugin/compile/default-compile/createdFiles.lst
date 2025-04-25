@@ -1,0 +1,13 @@
+org\example\coursemanagement\services\EnrollmentService.class
+org\example\coursemanagement\controller\EnrollmentController.class
+org\example\coursemanagement\model\Enrollment.class
+org\example\coursemanagement\services\CourseService.class
+org\example\coursemanagement\CourseManagementApplication.class
+org\example\coursemanagement\model\Course.class
+org\example\coursemanagement\repository\EnrollmentRepository.class
+org\example\coursemanagement\repository\StudentRepository.class
+org\example\coursemanagement\model\Student.class
+org\example\coursemanagement\controller\StudentController.class
+org\example\coursemanagement\controller\CourseController.class
+org\example\coursemanagement\repository\CourseRepository.class
+org\example\coursemanagement\services\StudentService.class
